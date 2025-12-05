@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [http://127.0.0.1:3000/JavaScript/Junior Challenges/News Homepage/product-preview-card-component-main/news-homepage-main/index.html#]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://birumj.github.io/News-Homepage/]
 
 ## My process
 
